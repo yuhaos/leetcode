@@ -1,7 +1,7 @@
 add for another branch for git testing.
 
 change by branch 1 for testing again.
-
+OK , i add one line here. I don't like conflict. It needs to be resolve.
 I cannot understand. Add one line more.
 
 OK, we change at the same time.
@@ -9,4 +9,10 @@ Yes, we are better.
 
 we are in branch dirty.
 
+<<<<<<< HEAD
 New line agagin.
+=======
+we are, errrr... I don'n knwo where we are...
+
+We are here again. What do you want to learn this time?
+>>>>>>> 80d8a5ad69a623833c4f0d0a121ee69fd445c448
